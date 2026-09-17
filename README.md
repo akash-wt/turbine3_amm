@@ -1,3 +1,6 @@
+<img width="914" height="507" alt="image" src="https://github.com/user-attachments/assets/13c32e32-3374-48e9-ba63-5b7bbae2b804" />
+
+
 ## Key Features
 
 - **StableSwap Invariant**: Implements a hybrid model combining constant sum and constant product formulas to minimize slippage for pegged assets.
