@@ -1,0 +1,10 @@
+warning: unused import: `crate::constants::*`
+ --> programs/amm/src/instructions/add_liquidity.rs:3:5
+  |
+3 | use crate::constants::*;
+  |     ^^^^^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` on by default
+
+warning: `amm` (lib) generated 1 warning (run `cargo fix --lib -p amm` to apply 1 suggestion)
+    Finished `release` profile [optimized] target(s) in 0.10s
